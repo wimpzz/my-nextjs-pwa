@@ -9,7 +9,7 @@ export const sampleSteps: JourneyStep[] = [
   {
     label: "Application Submitted",
     status: "completed",
-    dateTime: new Date().toLocaleString(), // Use current time as dateTi
+    dateTime: new Date().toLocaleString(), // Use current time as dateTime
   },
   {
     label: "Application Under Review",
