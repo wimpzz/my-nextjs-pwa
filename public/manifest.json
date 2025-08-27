@@ -1,8 +1,8 @@
 {
-  "name": "St Peter Application",
-  "short_name": "St Peter",
+  "name": "St Peter Finance Loan Application ",
+  "short_name": "SPFSv3",
   "description": "A Progressive Web App for St Peter",
-  "start_url": "/track",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1d4ed8",
