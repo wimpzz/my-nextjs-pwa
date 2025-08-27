@@ -5,7 +5,7 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#1d4ed8",
+  "theme_color": "#24bf73",
   "icons": [
     {
       "src": "/icons/StPeter-192x192.png",

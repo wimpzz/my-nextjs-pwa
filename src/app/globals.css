@@ -24,3 +24,21 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Custom styles for app name */
+.app-name {
+  color: #24bf73; /* Replace with your desired color */
+  font-size: 1rem; /* Optional, adjust the font size */
+  font-weight: bold; /* Optional, adjust the font weight */
+  text-align: center; /* Optional, center the text */
+}
+
+/* Custom huge font size */
+.font-xxl {
+  font-size: 2.5rem; /* 160px */
+  line-height: 1;
+  text-align: center;
+  font-weight: 700; /* bold */
+}
+
+
