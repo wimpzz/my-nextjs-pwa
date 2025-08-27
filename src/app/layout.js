@@ -7,7 +7,7 @@ export const metadata = {
   title: 'St Peter Application',
   description: 'Track the journey of applications',
   icons: {
-    icon: '/icons/icon-192x192.png', // Define the favicon
+    icon: '/icons/StPeter-512x512.png', // Define the favicon
   },
 };
 
